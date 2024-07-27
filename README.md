@@ -1,4 +1,4 @@
-project 
+Project 
 Conclusion:
 
 - Analyzed the 2023 ICC Cricket World Cup Final between Bangladesh and India 
@@ -13,7 +13,7 @@ Conclusion:
 - Enhanced understanding of the game and its nuances.
 
   
-  Final Thoughts:
+ Final Thoughts:
 
 - A thrilling match that showcased the best of international cricket
 - A testament to the power of teamwork, skill, and determination in achieving greatness.
